@@ -1,0 +1,15 @@
+@import "../../styles/mixin";
+
+.movie-pic {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+.AtCard {
+  .at-card-content {
+    margin-bottom: 0;
+  }
+  .at-card-content__info {
+    margin-bottom: 0;
+  }
+}
